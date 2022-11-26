@@ -1,3 +1,4 @@
+/* eslint-disable no-alert */
 /* eslint-disable no-plusplus */
 const body = document.querySelector('body');
 const menuBtn = document.querySelector('#menu-btn');
